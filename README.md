@@ -12,6 +12,9 @@
 
 ネット上でのコラボレーションの簡単な歴史とGitの紹介
 
+(午前の講義で使ったスライド: 
+[PDF(3MB+)](https://github.com/dominickchen/iamas-class-2013/blob/master/day1/IAMAS_dc_day1.pdf "Day1PDF") ) 
+
 #### II
 
 Git/GitHubの詳しい説明：インストールして使ってみる所までのウォークスルー
