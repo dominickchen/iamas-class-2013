@@ -7,6 +7,8 @@
 
 ---
 
+##### レポジトリの更新を受け取るために
+
 このレポジトリの更新を受け取るために、下記の設定を行ってください。
 
 1. 授業レポジトリの[ウェブページ](https://github.com/dominickchen/iamas-class-2013 "このページ")の右上の方にある"Watch"というボタンを押すと、このレポジトリに変更がある度に通知のメールが飛びます。
@@ -42,6 +44,8 @@ $ git pull origin master
 
 (午前の講義で使ったスライド: 
 [PDF(3MB+)](https://github.com/dominickchen/iamas-class-2013/blob/master/day1/IAMAS_dc_day1.pdf "Day1PDF") ) 
+
+**注意**: PDFはGitHubの画面ではまだ閲覧できないようです。上記の"レポジトリの更新を受け取るために"のセットアップを行い、ローカルマシンに最新版を同期して、Mac上で閲覧してください。
 
 #### II
 
