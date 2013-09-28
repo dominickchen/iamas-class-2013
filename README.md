@@ -21,7 +21,10 @@
 
 ### 次回までの課題
 
-* **Gitを用いてプロジェクトのバージョン管理を開始し、次回までになるべく細かくバージョン（コミット）を登録する。**
+1. 10/11までに、Git/GitHubを使って今日作ったレポジトリで、プロジェクトの進捗をcommit&pushすること
+2. 内容は何でもOK。	* テキストレポート（e.g. “GitHubの拡張可能性”）	* 画像編集／楽曲制作（e.g. .JPG）	* ソースコード（e.g. HTML~Obj-C）3. 他の人に進捗のプロセスが見えるように、少なくとも5回はcommitすること
+*** 午後の授業で行った手順を復習するためのドキュメント：
+[Git/GitHubの使い始め手順](https://github.com/dominickchen/iamas-class-2013/github-walkthrough.md "Git-GitHub Walkthrough") ***
 
 ---
 
