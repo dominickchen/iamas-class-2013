@@ -69,6 +69,9 @@ Git/GitHubの詳しい説明：インストールして使ってみる所まで�
 
 クラス内でのコラボレーションのセットアップ
 
+(講義で使ったスライド: 
+[PDF(2MB+)](https://github.com/dominickchen/iamas-class-2013/blob/master/day2/IAMAS_dc_day2.pdf "Day2PDF") ) 
+
 #### 課題
 
 * プロジェクトを整える（玄関と内装）
